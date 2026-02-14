@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Angie & Raúl 💖 Nuestra Galaxia</title>
+<title>Carla & Angel 💖 Nuestra Galaxia</title>
 
 <style>
 body {
@@ -63,20 +63,20 @@ p {
 <div class="center">
     <h1>✨ Angie & Raúl ✨</h1>
     <p>
-        Angie, mi amor… 💕<br><br>
+        Carla, mi amor… 💕<br><br>
         En este universo infinito, cada estrella lleva un pedacito de lo que siento por ti.  
         Eres mi paz, mi alegría, mi motivación y el sueño que quiero cuidar toda la vida.  
         <br><br>
         Te amo hoy, te amaré mañana  
         y en todas las galaxias que existan 🌌💖  
         <br><br>
-        — Raúl 💞
+        — Angel 💞
     </p>
 </div>
 
 <script>
 const palabras = [
-    "Angie 💖",
+    "Carla 💖",
     "Mi Monii 💕",
     "Mi amor 💘",
     "Mi vida 💓",
@@ -93,7 +93,7 @@ const palabras = [
     "Mi esposa 💍",
     "Te amo 💖",
     "Siempre contigo 💑",
-    "Raúl ama a Angie 💕"
+    "Angel ama a Carla 💕"
 ];
 
 function crearEstrella() {
